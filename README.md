@@ -1,4 +1,4 @@
-# 👨‍💻 [Your Name]'s Coding Journey
+# 👨‍💻 Nitish's Coding Journey
 
 I am a **Computer Science Engineer** with a knack for solving complex problems. Here’s what I bring to the table:
 
@@ -10,9 +10,9 @@ I am a **Computer Science Engineer** with a knack for solving complex problems. 
 - **Version Control:** Git, GitHub (actively improving)
 
 ## 🔍 What I'm Working On
-- **[Automated E-commerce Platform]
-- **[Game Algorithms Optimization]
-- **[Learning German]
+- [Automated E-commerce Platform]
+- [Game Algorithms Optimization]
+- [Learning German]
 
 ## 🏆 Achievements
 - Completed **50+ Java programming challenges**
