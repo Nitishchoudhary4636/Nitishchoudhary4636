@@ -1,6 +1,28 @@
-- 👋 Hi, I’m Mitish Choudhary
-- 👀 I’m interested in development
-- 🌱 I’m currently learning Devops Tools
+# 👨‍💻 [Your Name]'s Coding Journey
+
+I am a **Computer Science Engineer** with a knack for solving complex problems. Here’s what I bring to the table:
+
+## 🧰 Technical Skills
+- **Programming Languages:** Java (proficient), C++, Python
+- **Web Development:** HTML, CSS, JavaScript, React.js
+- **DevOps Tools:** Docker, Ansible, Jenkins, Terraform
+- **Cloud Services:** AWS (completed training)
+- **Version Control:** Git, GitHub (actively improving)
+
+## 🔍 What I'm Working On
+- **[Automated E-commerce Platform]
+- **[Game Algorithms Optimization]
+- **[Learning German]
+
+## 🏆 Achievements
+- Completed **50+ Java programming challenges**
+- Built a **full CI/CD pipeline** for a production-ready project
+- Currently **open to software engineering roles**
+
+
+## 📬 Reach Out
+- **Email:** [nitishchoudhary15e@gmail.com]
+- **LinkedIn:** [vwww.linkedin.com/in/choudharynitish]
 
 
 <!---
